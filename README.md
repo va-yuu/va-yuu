@@ -1,4 +1,4 @@
-# Hi there! 
+### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/> 
 
 Je suis **Vayu**, développeur spécialisé dans la création de bots Discord en JavaScript. Je conçois des solutions d'automatisation, des systèmes de modération avancés pour améliorer l'expérience des communautés Discord et bien d'autre.
 
