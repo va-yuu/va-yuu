@@ -27,11 +27,6 @@ Je travaille principalement sur :
 * **[Tags Staff](https://discord.com/servers/guilds-tags-41-500-tags-1018259882698358855)** - Bot de modération avec système de logs et sanctions automatiques
 * **[Le Bureau de Milo](https://discord.com/servers/la-bookinerie-club-1093839978808741910)** - Bot de gestion de tickets avec interface personnalisée
 
-## Anecdotes
-
-* Je préfère coder la nuit
-* Mon premier bot était un simple "ping pong" en py et j'ai quand même réussi à avoir une erreur
-
 ## Contact
 
 **Discord :** .vayu  
